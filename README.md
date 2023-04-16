@@ -1,4 +1,4 @@
-# Exercice du compteur
+# Compteur
 
 L'objectif est d'utiliser html, css et javascript pour créer un compteur interractif.
 
